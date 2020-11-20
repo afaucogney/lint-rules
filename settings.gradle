@@ -1,3 +1,5 @@
+include ':lint-rules-androidarch'
+include ':lint-rules-androidarch-lint'
 include ':lint-rules-android'
 include ':lint-rules-android-lint'
 include ':lint-rules-rxjava2'

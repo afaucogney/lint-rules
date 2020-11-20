@@ -1,5 +1,5 @@
-Lint-Rules
-==========
+oOPinionated Advanced LINt-rulEs
+===============================
 
 A set of very opinionated lint rules.
 
